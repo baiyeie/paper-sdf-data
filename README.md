@@ -1,2 +1,2 @@
 # paper-sdf-data
-SDF data for mao_cat paper
+SDF data and code (In Figure) for mao_cat paper
